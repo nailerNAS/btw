@@ -21,7 +21,7 @@ gparted
 gpu-screen-recorder-ui
 gthumb
 handbrake
-hashcat
+hashcat # 470xx > 6.2.6
 hcxtools
 hdparm
 hexchat
@@ -42,8 +42,8 @@ mangojuice-bin
 megasync
 minidlna
 ntfs-3g
-nvidia-580xx-dkms
-opencl-nvidia-580xx
+nvidia-580xx-dkms # aur/nvidia-470xx-dkms
+opencl-nvidia-580xx # aur/opencl-nvidia-470xx
 opera
 pixiewps
 protonup-qt
