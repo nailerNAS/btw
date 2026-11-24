@@ -1,0 +1,2 @@
+nvidia-580xx-dkms
+opencl-nvidia-580xx

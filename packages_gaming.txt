@@ -1,0 +1,12 @@
+gamemode
+gpu-screen-recorder-gtk
+gpu-screen-recorder-ui
+lib32-gamemode
+lib32-vkd3d
+mangohud
+mangojuice-bin
+mesa-utils
+protonup-qt
+steam
+vkd3d
+vulkan-tools
