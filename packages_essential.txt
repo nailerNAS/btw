@@ -12,7 +12,6 @@ isd
 jdk-openjdk
 jq
 keepassxc
-kshutdown
 libreoffice-still
 librewolf
 linux-zen-headers
